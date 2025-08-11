@@ -1,0 +1,4 @@
+jupyterlab==3.6.8
+pandas==2.2.3
+plotly==6.2.0
+pyspark==4.0.0
